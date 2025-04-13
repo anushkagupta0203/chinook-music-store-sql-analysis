@@ -1,72 +1,49 @@
-sql-queries-chinook-dataset``
+🎧 SQL Analysis on Chinook Database
+This project includes a collection of SQL queries executed on the Chinook database, a sample digital media store database. The queries analyze customer behavior, sales trends, employee hierarchy, and artist performance.
 
----
+📁 Contents
+📄 queries.sql – Clean SQL scripts from the project
 
-## 📘 `README.md` File for GitHub
+📷 screenshots/ – Output screenshots of executed queries
 
-```markdown
-# 🎧 SQL Analysis on Chinook Database
+📂 data/ – (Optional) Chinook database .db file if added
 
-This project includes a collection of SQL queries executed on the **Chinook database**, a sample digital media store database. The queries analyze customer behavior, sales trends, employee hierarchy, and artist performance.
+🧰 Tools & Technologies
+SQLite / DB Browser for SQLite
 
----
+SQL (Structured Query Language)
 
-## 📁 Contents
+Chinook Database (open-source sample database)
 
-- 📄 [`queries.sql`](./sql/queries.sql) – Clean SQL scripts from the project
-- 📷 [`screenshots/`](./screenshots/) – Output screenshots of executed queries
-- 📂 [`data/`](./data/) – (Optional) Chinook database `.db` file if added
+🔍 SQL Queries Included
+Top 5 Customers by Total Purchase
 
----
+Most Popular Genre by Tracks Sold
 
-## 🧰 Tools & Technologies
+Managers and Their Subordinates
 
-- SQLite / DB Browser for SQLite  
-- SQL (Structured Query Language)  
-- Chinook Database (open-source sample database)
+Most Sold Album by Each Artist
 
----
+Monthly Sales Trend for 2013
 
-## 🔍 SQL Queries Included
+📦 Dataset
+📚 Chinook Database GitHub
 
-1. **Top 5 Customers by Total Purchase**
-2. **Most Popular Genre by Tracks Sold**
-3. **Managers and Their Subordinates**
-4. **Most Sold Album by Each Artist**
-5. **Monthly Sales Trend for 2013**
+Format: .db or .sql (SQLite)
 
----
+📷 Screenshots
+You can find the query output screenshots in the screenshots/ folder.
 
-## 📦 Dataset
+📁 How to Run
+Download the Chinook database:
+https://github.com/lerocha/chinook-database
 
-- 📚 [Chinook Database GitHub](https://github.com/lerocha/chinook-database)
-- Format: `.db` or `.sql` (SQLite)
+Open it using DB Browser for SQLite or any SQL client.
 
----
+Run the queries in queries.sql to reproduce results.
 
-## 📷 Screenshots
+🌐 Connect
+📧 your.email@example.com
+🔗 LinkedIn
 
-You can find the query output screenshots in the [`screenshots/`](./screenshots/) folder.
-
----
-
-## 📁 How to Run
-
-1. Download the Chinook database:  
-   [https://github.com/lerocha/chinook-database](https://github.com/lerocha/chinook-database)
-
-2. Open it using **DB Browser for SQLite** or any SQL client.
-
-3. Run the queries in `queries.sql` to reproduce results.
-
----
-
-## 🌐 Connect
-
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## ⭐ If you found this helpful, star the repo and share it with others!
-
+⭐ If you found this helpful, star the repo and share it with others!
