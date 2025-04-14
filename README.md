@@ -56,8 +56,8 @@ You can find the query output screenshots in the [`screenshots/`](./screenshots/
 
 ## 🌐 Connect
 
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 anushkagupta0203@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anushkagupta23)
 
 ---
 
