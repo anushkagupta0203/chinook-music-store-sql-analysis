@@ -8,8 +8,7 @@ This project includes a collection of SQL queries executed on the **Chinook data
 
 - 📄 [`queries.sql`](./sql/queries.sql) – Clean SQL scripts from the project  
 - 📷 [`screenshots/`](./screenshots/) – Output screenshots of executed queries  
-- 📂 [`data/`](./data/) – *(Optional)* Chinook database `.db` file if added
-
+  
 ---
 
 ## 🧰 Tools & Technologies
@@ -33,7 +32,9 @@ This project includes a collection of SQL queries executed on the **Chinook data
 ## 📦 Dataset
 
 - 📚 [Chinook Database GitHub](https://github.com/lerocha/chinook-database)  
-- Format: `.db` or `.sql` (SQLite)
+- The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices and customers.
+- <img width="1112" height="762" alt="image" src="https://github.com/user-attachments/assets/e0fd2511-8e07-4f83-971a-f1567c08d472" />
+
 
 ---
 
@@ -60,6 +61,3 @@ You can find the query output screenshots in the [`screenshots/`](./screenshots/
 🔗 [LinkedIn](https://linkedin.com/in/anushkagupta23)
 
 ---
-
-## ⭐ If you found this helpful, star the repo and share it with others!
-
